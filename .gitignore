@@ -1,0 +1,7 @@
+.idea
+node_modules
+/out/loop*.png
+/out/all/*.png
+/out/10/*.png
+/out/100/*.png
+/out/1000/*.png

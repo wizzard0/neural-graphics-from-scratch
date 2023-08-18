@@ -1,0 +1,18 @@
+{
+  "name": "neural-graphics-hash",
+  "version": "1.0.0",
+  "description": "Instant Neural Graphics From Scratch, zero dependencies. Includes micrograd-in-JS",
+  "type": "module",
+  "scripts": {
+    "build": "false"
+  },
+  "keywords": ["mlp","hash grid","neural graphics","playground"],
+  "author": "oleksandr@tvori.info",
+  "license": "ISC",
+  "dependencies": {
+    "@types/pngjs": "^6.0.1",
+    "bun-types": "^0.7.3",
+    "pngjs": "6",
+    "pnglib-es6": "^1.0.1"
+  }
+}
